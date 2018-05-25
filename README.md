@@ -30,7 +30,7 @@
 
         <h1>David Eliceo Vite Vergara</h1>
 
-        <h2>Ingeniero en Sistemas Computacionañes</h2>
+        <h3>Ingeniero en Sistemas Computacionales</h3>
 
         <ul>
           <li><span>E-mail:</span> <a href="#">david.vite@yahoo.com</a></li>
@@ -60,10 +60,6 @@
           <p>Soy Ingeniero en Sistemas Computacionales graduado de la Universidad Estatal de Milagro cuento Con certificación Microsoft de Windows server 2012 y certificaciones de MIKROTIK MTCNA y MTCTCE, tengo conocimientos básicos e intermedios de redes, telefonía IP, desarrollo de software, manejo de bases de datos.</p>
         </div>
 
-        <div class="right gallery">
-          <a href="#"><img src="img/pic.png" width="90" height="90" alt="image" /></a>
-          <a href="#"><img src="img/pic.png" width="90" height="90" alt="image" /></a>
-        </div>
       </div>
 
       <div class="section education">
@@ -110,9 +106,14 @@
           </div>
 
           <div class="right_left">
-            <p><span>Aus.</span></p>
-
-            <p>Sus.</p>
+            <h4>Español</h4>
+            <div class="progress-bar red">
+              <span style="width: 100%"></span>
+            </div>
+            <h4>Ingles</h4>
+            <div class="progress-bar red">
+              <span style="width: 80%"></span>
+            </div>
           </div>
         </div>
       </div>
